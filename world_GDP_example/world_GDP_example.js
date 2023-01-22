@@ -108,7 +108,7 @@ for (let index = 0; index < worldGDP.length; index++) {
     AustraliaMarker.setIconView({
         width: 100,
         height: 100,
-        url: `http://localhost:3000/world_GDP_example/world_GDP_example.html?gdp=${country.gdp}`,
+        url: `https://peakermap.github.io/MapWebViewContent/world_GDP_example/world_GDP_example.html?gdp=${country.gdp}`,
     });
 }
 //# sourceMappingURL=world_GDP_example.js.map
