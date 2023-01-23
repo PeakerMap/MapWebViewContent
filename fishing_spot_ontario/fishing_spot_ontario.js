@@ -54,7 +54,7 @@ for (let index = 0; index < fishingSpots.length; index++) {
     markerObj.setIconView({
         width: 100,
         height: 100,
-        url: `http://localhost:3000/fishing_spot_ontario/fishing_spot_ontario.html?gdp=${encodeURIComponent(fishingSpot.species)}`,
+        url: `https://peakermap.github.io/MapWebViewContent/fishing_spot_ontario/fishing_spot_ontario.html?gdp=${encodeURIComponent(fishingSpot.species)}`,
     });
 }
 //# sourceMappingURL=fishing_spot_ontario.js.map
