@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "World GDP",
+    "description": "Check world GDP on a map for year of 2022",
+    "image_url": "https://pic.onlinewebfonts.com/svg/img_60971.png",
+    "extensionUrl": "https://peakermap.github.io/MapWebViewContent/world_GDP_example/world_GDP_example.js"
+  },
+  {
+    "id": 2,
+    "name": "Ontario Fishing Spot ",
+    "description": "Need to find fishing spot in Ontario?",
+    "image_url": "https://images.all-free-download.com/images/graphiclarge/fishing_logo_template_dynamic_handdrawn_fish_rod_sketch_6853885.jpg",
+    "extensionUrl": "https://peakermap.github.io/MapWebViewContent/fishing_spot_ontario/fishing_spot_ontario.js"
+  }
+]
